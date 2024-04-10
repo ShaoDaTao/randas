@@ -1,0 +1,12 @@
+[package]
+name = "randas"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+xl = "0.1.7"
+simple_excel_writer = "0.2.0"
+chrono = "0.4.19"
+thiserror = "1.0.31"
